@@ -1,17 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        //better solution
-         int[] freq = new int[nums.length];
+        //optimal solution 
+         int slow = nums[0];
+        int fast = nums[0];
 
-        for(int num : nums) {
+        // Phase 1: Find the meeting point
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
 
-            if(freq[num] == 1) {
-                return num;
-            }
+        // Phase 2: Find the duplicate
+        slow = nums[0];
 
-            freq[num]++;
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
 
-        return -1;
+        return slow;
     }
 }
