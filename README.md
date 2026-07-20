@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
