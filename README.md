@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
