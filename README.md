@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
