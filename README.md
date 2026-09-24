@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
