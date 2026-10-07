@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
