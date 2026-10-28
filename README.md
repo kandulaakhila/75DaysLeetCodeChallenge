@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
