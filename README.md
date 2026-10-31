@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
