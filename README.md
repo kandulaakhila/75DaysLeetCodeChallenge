@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
