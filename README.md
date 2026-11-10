@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [3665-twisted-mirror-path-count](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
