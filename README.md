@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
