@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -244,9 +246,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
