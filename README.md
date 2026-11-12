@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/kandulaakhila/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
